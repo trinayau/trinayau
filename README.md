@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trinayau
-- 👀 I’m interested in learning how to code
+- 👀 I am learning how to code with SheCodes
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on Ruby on CodeWars
-- 📫 How to reach me on here!
+- 📫 Please reach out on @trina.codes on Instagram if you are also documenting your coding progress!
 
 <!---
 trinayau/trinayau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
