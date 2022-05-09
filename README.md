@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
   
 
-- ⚡ Fun fact: I'm a qualified pharmacist and a career switcher!  
+- ⚡ Fun fact: I'm a qualified pharmacist and a career switcher  
 
 
   
