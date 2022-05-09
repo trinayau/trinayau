@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React and Redux  
   
 
-- ❓ Ask me about anything related to building responsive websites, using Cloud technologies  
+- ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
   
 
 - ⚡ Fun fact: I'm a qualified pharmacist and a career switcher!  
