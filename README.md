@@ -5,7 +5,7 @@
 ### <div align="center">I'm Trina, a full-stack Tech Trainee with futureproof👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [React Music App](https://github.com/trinayau/react-music-app)  
+- 🔭 I’m currently working on [React Anime Generator](https://github.com/trinayau/Random-Anime-Generator-React)  
   
 
 - 🌱 I’m currently learning React and Redux  
