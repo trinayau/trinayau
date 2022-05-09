@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact: I'm a qualified pharmacist and a career switcher  
 
+- 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
   
 
