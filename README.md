@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [React Anime Generator](https://github.com/trinayau/Random-Anime-Generator-React)  
   
 
-- 🌱 I’m currently learning React and Redux  
+- 🌱 I’m currently learning Python and Django
   
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
