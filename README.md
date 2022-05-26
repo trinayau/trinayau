@@ -5,11 +5,12 @@
 ### <div align="center">I'm Trina, a full-stack Tech Trainee with futureproof👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Quiz Pro Quo](https://github.com/trinayau/QuizProQuo)  
+- 🔭 I’m currently working on [Django React Server](https://github.com/trinayau/Django-REST-React)  
   
 
-- 🌱 I’m currently learning Python and Django
-  
+- 🌱 I’m currently learning Python, Flask and Django
+
+- 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, React + Redux, Websockets, MongoDB Atlas, PostGreSQL
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
   
