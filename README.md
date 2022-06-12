@@ -5,7 +5,7 @@
 ### <div align="center">I'm Trina, a full-stack Tech Trainee with futureproof👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/)  
+- 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/), a platform where food bank volunteers can connect! It is a full stack project using React and Django.  
   
 
 - 🌱 I’m currently learning Python, Flask and Django
