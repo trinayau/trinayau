@@ -5,7 +5,7 @@
 ### <div align="center">I'm Trina, a full-stack Tech Trainee with futureproof👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Django React Server](https://github.com/trinayau/Django-REST-React)  
+- 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/)  
   
 
 - 🌱 I’m currently learning Python, Flask and Django
@@ -105,9 +105,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trinayau&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<img src="https://github-readme-stats.vercel.app/api?username=trinayau&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinayau&theme=cobalt)](https://git.io/streak-stats)
 
 <!---
 trinayau/trinayau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
