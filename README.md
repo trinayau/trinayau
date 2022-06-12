@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/), a platform where food bank volunteers can connect! It is a full stack project using React and Django.  
   
 
-- 🌱 I’m currently learning Python, Flask and Django
+- 🌱 I’m currently learning TypeScript and Python
 
 - 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, React + Redux, Websockets, MongoDB Atlas, PostGreSQL
 
