@@ -15,11 +15,10 @@
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
   
 
-- ⚡ Fun fact: I'm a qualified pharmacist and a career switcher  
+- ⚡ Fun fact: I'm a qualified pharmacist and a career switcher who has now completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, React, Django and Flask! 
 
 - 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
-  
 
 <br/>  
 
