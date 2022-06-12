@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/92634994/167318537-7175bce9-6f45-4472-a962-501faaa0c6d1.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Trina, a full-stack Tech Trainee with futureproof👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a full-stack developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/), a platform where food bank volunteers can connect! It is a full stack project using React and Django.  
