@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning TypeScript and building projects in JavaScript and Python
 
-- 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, React + Redux, Websockets, MongoDB Atlas, PostGreSQL
+- 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, Docker, React + Redux, Websockets, MongoDB Atlas, PostgreSQL
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
 
