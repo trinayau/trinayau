@@ -8,14 +8,13 @@
 - 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/), a platform where food bank volunteers can connect! It is a full stack project using React and Django.  
   
 
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning TypeScript and building projects in JavaScript and Python
 
 - 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, React + Redux, Websockets, MongoDB Atlas, PostGreSQL
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
-  
 
-- ⚡ Fun fact: I'm a qualified pharmacist and a career switcher who has now completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, React, Django and Flask! 
+- ⚡ About me: I'm a pharmacist and a career switcher who has now completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
 - 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
