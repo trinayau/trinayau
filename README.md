@@ -5,10 +5,10 @@
 ### <div align="center">I'm Trina, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [FullFill](https://fullfill.netlify.app/), a platform where food bank volunteers can connect! It is a full stack project using React and Django.  
+- 🔭 I’m currently working on [React weather app](https://github.com/trinayau/react-weather), a responsive weather app built using React, OpenWeather API and Unsplash API.
   
 
-- 🌱 I’m currently learning Java, PHP and building projects in TypeScript and React
+- 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript and React
 
 - 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, Docker, React + Redux, Websockets, MongoDB Atlas, PostgreSQL
 
