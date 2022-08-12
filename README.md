@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
 
 
-### <div align="center">I'm Trina, a full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a full-stack developer currently onsite at Ford 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [React weather app](https://github.com/trinayau/react-weather), a responsive weather app built using React, OpenWeather API and Unsplash API.
