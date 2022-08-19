@@ -7,7 +7,7 @@
 ### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [React weather app](https://github.com/trinayau/react-weather), a responsive weather app built using React, OpenWeather API and Unsplash API.
+- 🔭 I’m currently working on a Java Spring Boot REST API.
   
 
 - 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript, React and Spring Boot
