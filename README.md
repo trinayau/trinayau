@@ -7,7 +7,7 @@
 ### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on a Java Spring Boot REST API.
+- 🔭 I’m currently working on building a [Pokemon game](https://github.com/trinayau/pokemon-portfolio) using HTML5 Canvas, CSS and JavaScript 
   
 
 - 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript, React and Spring Boot
