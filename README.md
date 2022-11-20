@@ -8,7 +8,7 @@
 ### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on building a [CarbonAltDel](https://www.carbonaltdel.com) using ReactJs, Django and PostgreSQL!
+- 🔭 I’m currently working on building [CarbonAltDel](https://www.carbonaltdel.com), a platform to help UK restaurants reach Net Zero using ReactJS, Django and PostgreSQL!
   
 
 - 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript, React and Spring Boot
