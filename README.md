@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
 
 
-### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford 👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a Junior Software Developer currently onsite at Ford Motor Company (Salesforce CRM Team) 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on building [CarbonAltDel](https://www.carbonaltdel.com), a platform to help UK restaurants reach Net Zero using ReactJS, Django and PostgreSQL!
