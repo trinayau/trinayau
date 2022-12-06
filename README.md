@@ -22,6 +22,7 @@
 - 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
 - 🤝 Add me on LinkedIn: [Trina Yau](https://www.linkedin.com/in/trina-yau/)
+- 👾 Find me on DevPost: [Trina Yau](https://devpost.com/trinayau)
 
 
 <br/>  
