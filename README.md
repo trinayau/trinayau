@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
 
 
-### <div align="center">I'm Trina, a Junior Software Developer currently onsite at Ford Motor Company (Salesforce CRM Team) 👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a Junior Software Developer currently onsite at Ford Motor Company👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on building [CarbonAltDel](https://www.carbonaltdel.com), a platform to help UK restaurants reach Net Zero using ReactJS, Django and PostgreSQL!
@@ -17,7 +17,7 @@
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
 
-- ⚡ About me: I'm a pharmacist and a career switcher who has now completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
+- ⚡ About me: I'm a former pharmacist and switched careers to software engineering because I love building and solving problems with code. I completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask in June 2022. I am currently working towards my Salesforce Administrator & Platform Developer I certifications, as well as taking part in hackathons in my spare time.
 
 - 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
