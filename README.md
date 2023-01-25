@@ -8,7 +8,7 @@
 ### <div align="center">I'm Trina, a Junior Software Developer currently onsite at Ford Motor Company👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on building [CarbonAltDel](https://www.carbonaltdel.com), a platform to help UK restaurants reach Net Zero using ReactJS, Django and PostgreSQL!
+- 🔭 I’m currently working on building [Presidium Platform](https://presidiumplatform.netlify.app/), a platform to help Presidium Network validate their logistics with ReactJS, Django and PostgreSQL!
   
 
 - 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript, React and Spring Boot
