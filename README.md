@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
 
 
-### <div align="center">I'm Trina, a Junior Software Developer currently onsite at Ford Motor Company👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford Motor Company👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on building [Presidium Platform](https://github.com/trinayau/PresiDev-Hackathon), a platform to help Presidium Network validate their logistics with ReactJS, Django and PostgreSQL!
