@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
 
 
-### <div align="center">I'm Trina, a Salesforce Developer currently onsite at Ford Motor Company👨‍💻 🚀</div>  
+### <div align="center">I'm Trina, a Site Reliability Engineer at Cisco 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on building [Presidium Platform](https://github.com/trinayau/PresiDev-Hackathon), a platform to help Presidium Network validate their logistics with ReactJS, Django and PostgreSQL!
@@ -17,7 +17,7 @@
 
 - ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
 
-- ⚡ About me: I'm a former pharmacist and switched careers to software engineering because I love building and solving problems with code. I completed 13 weeks of tech training with [futureproof](https://cohorts.getfutureproof.co.uk/gebru/trinayau) in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask in June 2022. I am currently working towards my Salesforce Administrator & Platform Developer I certifications, as well as taking part in hackathons in my spare time.
+- ⚡ About me: I'm a qualified Pharmacist and switched careers to software engineering because I love building and solving problems with code. 
 
 - 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
