@@ -1,37 +1,15 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/92634994/196926923-ccf445ce-f1a1-4126-95f1-1537510337e7.jpg" align="center" style="width: 100%" />
-</div>  
+<div align="center">I'm Trina 🎀 </div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
+ ⚡ Pharmacist turned Software Engineer. I love my dogs and reading LitRPG & Wuxia webnovels.
 
-
-### <div align="center">I'm Trina, a Site Reliability Engineer at Cisco 👨‍💻 🚀</div>  
-  
-
-- 🔭 I’m currently working on building [Presidium Platform](https://github.com/trinayau/PresiDev-Hackathon), a platform to help Presidium Network validate their logistics with ReactJS, Django and PostgreSQL!
-  
-
-- 🌱 I’m currently learning Java, Salesforce and building projects in TypeScript, React and Spring Boot
-
-- 🦖 Previous projects built with HTML, CSS, JavaScript, Node.js, Express, Docker, React + Redux, Websockets, MongoDB Atlas, PostgreSQL
-
-- ❓ Ask me about anything related to building responsive websites, using Cloud technologies and databases!  
-
-- ⚡ About me: I'm a qualified Pharmacist and switched careers to software engineering because I love building and solving problems with code. 
-
-- 🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
-
-- 🤝 Add me on LinkedIn: [Trina Yau](https://www.linkedin.com/in/trinayau/)
-- 👾 Find me on DevPost: [Trina Yau](https://devpost.com/trinayau)
-
+🦊 Check out my portfolio on [trinayau.io](https://trinayau.io)
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -41,8 +19,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
@@ -78,6 +55,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -87,34 +66,26 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/trinayau" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/trina.codes" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://medium.com/https://medium.com/@trinayau95" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/trina-yau" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@YauTrina" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
-
 <br/>  
 
 
-## Github Stats  
+## GitHub Nosiness
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="trinayau" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=trinayau&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br />
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinayau&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinayau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
